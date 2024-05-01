@@ -2,7 +2,7 @@
 
 - 🖥️ Junior Software Developer
 - 🎮 Personal projects include FiveM and RedM
-- ☕ Currently programming in C#, SQL, and Lua
+- ☕ Currently programming in C#, HTML, SQL, and Lua
 
 ## Contact
 - 💬 Discord: [SH4UN](https://discord.com/users/sh4un#0)
