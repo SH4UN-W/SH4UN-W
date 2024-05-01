@@ -5,11 +5,7 @@
 - ☕ Currently programming in C#, SQL, and Lua
 
 ## Contact
-- 💬 Discord : [SH4UN](https://discord.com/users/sh4un#0)
+- 💬 Discord: [SH4UN](https://discord.com/users/sh4un#0)
 
 ## Statistics
-<a href="https://github.com/SH4UN-W?tab=overview&from=2004-12-01&to=2004-12-31">
-  <!--- rank_icon=percentile / github --->
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=SH4UN-W&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SH4UN-W&layout=compact&langs_count=8&theme=radical" />
-</a>
+[![SH4UN's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH4UN-W&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/SH4UN-W/github-readme-stats)
