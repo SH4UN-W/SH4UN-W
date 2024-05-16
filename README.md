@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! 👋
+## About Me
 
 - 🖥️ Junior Software Developer
 - 🎮 Personal projects include FiveM and RedM
