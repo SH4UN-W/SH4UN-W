@@ -1,6 +1,6 @@
 ## About Me
 
-- 🖥️ Junior Software Developer
+- 🖥️ Software Developer
 - 🎮 Personal projects include FiveM and RedM
 - ☕ Currently programming in C#, HTML, SQL, and Lua
 
